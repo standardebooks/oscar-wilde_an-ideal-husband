@@ -37,21 +37,21 @@
 		<meta property="term" refines="#subject-2">sh2008116057</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Comedy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Over the course of twenty-four hours, a blackmail plot threatens to bring down a member of the British aristocracy in Oscar Wilde’s farce, <i>An Ideal Husband</i>.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt; Sir and Lady Chiltern are the picture of responsibility; he a member of the House of Commons, and she of the Women’s Liberal Association. When Mrs. Cheveley arrives in London, bringing with her a letter that threatens to ruin Sir Robert Chiltern forever, everything threatens to come crumbling down. The following twenty-four hours proceed to be filled with theft, blackmail, farce, and biting social commentary.&lt;/p&gt;
+			&lt;p&gt;First performed in 1893 at the Haymarket Theatre and was immediately successful. On April 6th, the same day it transferred to the Criterion Theatre, &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; was arrested for gross indecency, and his name publically removed from the play. Wilde revised the play for publication in 1899, taking steps to add written stage directions and character descriptions in order to make the work more accessible to the public. After &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest"&gt;The Importance of Being Earnest&lt;/a&gt;&lt;/i&gt;, it is Wilde’s most popular play.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/885</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/An_Ideal_Husband</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_an-ideal-husband</meta>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
 		<meta property="file-as" refines="#author">Wilde, Oscar</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Oscar Fingal O’Flahertie Wills Wilde</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Oscar_Wilde</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79042038</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -60,13 +60,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Proofreaders, Distributed</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Smith, Asher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
