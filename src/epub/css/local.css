@@ -17,8 +17,8 @@
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -94,14 +94,14 @@ section[epub|type~="z3998:scene"] > p{
 
 #dramatis-personae tr td{
 	padding: 0 .5em 0 0;
-	vertical-align: middle;
 	text-align: right;
+	vertical-align: middle;
 	width: 50%;
 }
 
 #dramatis-personae tr td + td{
 	border-left: 1px solid;
-	text-align: initial;
 	padding: 0 0 0 .5em;
+	text-align: initial;
 }
 /* End dramatis personae */
