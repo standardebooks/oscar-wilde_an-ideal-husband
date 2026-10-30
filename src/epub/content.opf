@@ -64,7 +64,7 @@
 		<link href="https://id.loc.gov/authorities/names/n87896129.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Proofreaders, Distributed</meta>
+		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
